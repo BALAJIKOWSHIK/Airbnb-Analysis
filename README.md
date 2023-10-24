@@ -29,4 +29,6 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 
 8.Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
 
+YOUTUBE DEMO URL:https://www.youtube.com/watch?v=D80HLNpujwc
+
 
